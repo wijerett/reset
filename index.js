@@ -1,0 +1,7 @@
+getComputedStyle(
+
+stylestyle
+
+)
+
+
